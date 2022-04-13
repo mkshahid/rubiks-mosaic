@@ -20,6 +20,6 @@ Various features included are:
 * Clicking on the 2D cube will allow you to see the other bottom tiles that are not normally visible  
 
 <p align="center">
-	<img src="https://github.com/mkshahid/rubiks-mosaic/blob/550a73f4fc1b1d2c1742bee62f03d1f09d76672d/screenshots/Unsolved-Cube.jpeg" alt ="Unsolved Cube Screenshot"/>
-	<img src="https://github.com/mkshahid/rubiks-mosaic/blob/550a73f4fc1b1d2c1742bee62f03d1f09d76672d/screenshots/Solved-Cube.jpeg" alt ="Solved Cube Screenshot"/>
+	<img src="https://github.com/mkshahid/rubiks-mosaic/blob/011b09ae72b3e55a835562917e3e6106aa141668/screenshots/Unsolved-CubeMedium.jpeg" alt ="Unsolved Cube Screenshot"/>
+	<img src="https://github.com/mkshahid/rubiks-mosaic/blob/011b09ae72b3e55a835562917e3e6106aa141668/screenshots/Solved-CubeMedium.jpeg" alt ="Solved Cube Screenshot"/>
 </p>
