@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/mkshahid/rubiks-mosaic/blob/b774f60158a7c832217a6dde10a83ee6064a824c/screenshots/FinalMosaic.jpeg" alt ="Photo With Final Mosaic"/>
+	<img src="https://github.com/mkshahid/rubiks-mosaic/blob/b774f60158a7c832217a6dde10a83ee6064a824c/screenshots/FinalMosaicMedium.jpeg" alt ="Photo With Final Mosaic"/>
 </p>
 
 # Rubiks-Cube-Mosaic
